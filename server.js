@@ -1,5 +1,5 @@
 ﻿/************************************************
- *              QuickStartServer                *
+ *              QuickStartServer   v0.2         *
  *       Simple HTTP server for development     *
  *    License: No license, just Public Domain   *
  *             Dariusz Chilimoniuk              *
