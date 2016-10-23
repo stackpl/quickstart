@@ -131,7 +131,7 @@ server.on('error', function (err) {
 });
 server.listen(port, function () {
     console.log(
-        path.resolve(pubDir) + ' => http://localhost' +
+        'Ready: ' + path.resolve(pubDir) + ' => http://localhost' +
         (port === 80
             ? ''
             : ':' + port)
